@@ -1,0 +1,8 @@
+# Local settings contain NVIDIA API keys
+/settings.properties
+
+# Private conversation history
+/chats/
+
+# Compiled Java classes
+/out/
